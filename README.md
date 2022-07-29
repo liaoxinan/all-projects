@@ -29,6 +29,8 @@ SM3的消息长度是64字节或者它的倍数，如果消息的长度不足则
 ![image](https://user-images.githubusercontent.com/109905958/181852201-3dbb8301-34d7-4ce6-85de-c38084ddf65c.png)
 
 结果：  
+![image](https://user-images.githubusercontent.com/109905958/181852458-853edfa3-6b12-4def-bafc-6e524d73f89f.png)
+
 ## （2）SM3的生日攻击  
 利用两个集合相交的原理，生成散列函数碰撞，形成攻击。生日攻击方法没有利用hash函数的结构和任何代数弱性质，它只依赖于hash值的长度。  
 相关代码：  
