@@ -8,7 +8,7 @@ Github地址链接： https://github.com/liaoxinan/all-projects
 # 2、所做项目  
 SM3的长度扩展攻击  
 SM3的生日攻击  
-SM3的rho攻击
+SM3的rho攻击  
 完成人：廖中鑫  
 # 3、项目清单  
 完成的项目：  
